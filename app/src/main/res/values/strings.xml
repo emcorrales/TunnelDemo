@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">TunnelDemo</string>
+    <string name="hint_import_import_vpn">Please import an ovpn file.</string>
+    <string name="action_import">"Import OVPN</string>
+    <string name="install_file_manager">Please install a File Manager.</string>
+    <string name="select_file">Select a file to upload.</string>
 </resources>
